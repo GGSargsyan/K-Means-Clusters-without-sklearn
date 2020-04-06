@@ -1,5 +1,5 @@
 # K-Means-Clusters-without-sklearn
-(View thsi README in raw format)
+(View this README in raw format)
 In python I wrote a k-means algorithm that would typically require using the sklearn library.
 
 I completed this using Jupyter Notebook. To run the program use the two input-data.txt and output-data.txt files or 
